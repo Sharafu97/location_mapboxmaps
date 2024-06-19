@@ -39,6 +39,8 @@ dependencies:
   flutter_typeahead: ^5.2.0
   flutter_mapbox_autocomplete: ^2.0.0
   hive: ^2.2.3
+  mapbox_search: ^3.2.0
+  flutter_mapbox_navigation: ^0.2.2
 
 dev_dependencies:
   flutter_test:
